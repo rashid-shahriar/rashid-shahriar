@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Fullstack Project<br>🌱 I’m currently learning Next Js
+🔭 I’m currently working on a Fullstack Project<br>🌱 I’m currently working on Next Js and Laravel
 
 
 ## 🌐 Socials:
